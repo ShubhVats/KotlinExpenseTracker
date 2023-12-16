@@ -1,4 +1,4 @@
-package com.dev.kotlinexpensetracker.Fragments
+package com.dev.kotlinexpensetracker.ViewModels
 
 import androidx.lifecycle.ViewModel
 

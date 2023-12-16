@@ -7,6 +7,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import com.dev.kotlinexpensetracker.R
+import com.dev.kotlinexpensetracker.ViewModels.DashboardViewModel
 
 class DashboardFragment : Fragment() {
 
